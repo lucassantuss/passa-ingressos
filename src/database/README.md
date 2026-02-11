@@ -1,2 +1,2 @@
-# Banco de Dados
-Scripts utilizados no Banco de Dados para a criação das tabelas e inserção dos dados
+# Database
+Scripts used in the database to create tables and insert data.
