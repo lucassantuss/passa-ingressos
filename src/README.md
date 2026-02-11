@@ -1,18 +1,18 @@
 # Passa Ingressos
 
-## Banco de Dados
-Scripts utilizados no Banco de Dados para a criação das tabelas e inserção dos dados
+## Database
+Scripts used in the database to create tables and insert data.
 
-## WebAPI - Aplicação BackEnd
+## API - BackEnd
 
-Link do Repositório: https://github.com/lucassantuss/PassaIngressos_WebAPI
+Repository Link: https://github.com/lucassantuss/passa-ingressos-api
 
-Desenvolvido com .NET 6, esta é uma WebAPI utilizada para o tratamento e manipulação dos dados vindos do Banco de Dados da aplicação PassaIngressos.
+Developed with .NET 6, this is a WebAPI used to process and manipulate data coming from the PassaIngressos application database.
 
-Há também um projeto de testes utilizando XUnit para os testes unitários.
+There is also a test project using XUnit for unit tests.
 
-## SPA - Aplicação FrontEnd
+## SPA - FrontEnd
 
-Link do Repositório: https://github.com/lucassantuss/PassaIngressos_SPA
+Repository Link: https://github.com/lucassantuss/passa-ingressos-spa
 
-Desenvolvido com React, essa aplicação SPA (Single Page Application) visa agregar uma melhor experiência para o usuário final da PassaIngressos.
+Developed with React, this SPA (Single Page Application) application aims to provide a better experience for the PassaIngressos end user.
